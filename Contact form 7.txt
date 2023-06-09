@@ -1,0 +1,38 @@
+/*--- 2 Column Form Styles Start ---*/
+
+#left {
+    width: 47%;
+    float: left;
+    margin-right:6%;
+}
+ 
+#right {
+    width: 47%;
+    float: left;
+}
+ 
+.clearfix:after {
+    content:"\0020";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden;
+    overflow:hidden;
+    margin-bottom:10px;
+}
+ 
+.clearfix {
+    display:block;
+}
+
+/*--- 2 Column Form Styles End ---*/
+
+
+.fas fa-chevron-circle-right fa-chevron-right{
+	
+    background: #000 !important;
+    padding: 5px 8px !important;
+    color: #fff !important;
+    border-radius: 50px!important;
+}
+

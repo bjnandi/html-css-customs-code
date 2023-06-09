@@ -1,0 +1,28 @@
+<h4><i class="fa fa-map-marker-alt" style="color: #2196f3;"></i> <span style="color: #ffffff;"> 8500 Beverly Boulevard Los Angeles, CA 90048 </span></h4>
+<h4><i class="fa fa-envelope-o" style="color: #2196f3;"></i><span style="color: #ffffff;"> info@demo.com</span></h4>
+<h4><i class="fa fa-phone" style="color: #2196f3;"></i> <span style="color: #ffffff;"> 000-000-000</span></h4>
+
+<i class="fas fa-check" style="color: #007AFF;" ></i>
+
+<h4><i class="fas fa-envelope" style="color: #f75e56;"></i> <span style="color: #ffffff;"> Info@ felixredshoe.com.au </span></h4>
+<h4><i class="fas fa-map-marker-alt" style="color: #f75e56;"></i><span style="color: #ffffff;"> Level 2, 194 Varsity Pde, Varsity Lakes, Qld, 4227</span></h4>
+
+
+<p><i class="fa fa-map-marker" style="color: #FF530D;"></i> <span style="color: #ffffff;">8500 Beverly Boulevard Los Angeles, CA 90048 </span></p>
+<p><i class="fa fa-envelope-o" style="color: #FF530D;"></i><span style="color: #ffffff;"> info@demo.com</span></p>
+<p><i class="fa fa-phone" style="color: #FF530D;"></i> <span style="color: #ffffff;">(000) 000-000</span></p>
+
+ult-ib-effect-style14 .ult-new-ib-title {
+    padding: 151px 0 15px;
+}
+
+
+<p><i class="fas fa-map-marker-alt" style="color: #EFA685;"></i> <span style="color: #363639;"> W1 Virtual Office
+Dudley House, 169 Piccadilly
+Mayfair, London
+W1J 9EH </span></p>
+
+
+<p><i class="far fa-clock" style="color: #EFA685;"></i><span style="color: #363639;"> 09:30 – 17:30 GMT</span></p>
+
+<p><i class="fas fa-envelope" style="color: #EFA685;"></i><span style="color: #363639;"> GetStarted@w1vo.com</span></p>

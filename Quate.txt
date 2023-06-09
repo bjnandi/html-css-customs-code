@@ -1,0 +1,20 @@
+<h3 style="text-align: center;"><i class="fa fa-quote-left fa-2x" style="color: #e84c3c;"></i> <span style="color: #ffffff;"> Number of people who use bicycles as an everyday mode of transport is rising </span> <i class="fa fa-quote-right fa-2x" style="color: #e84c3c;"></i></h3>
+
+
+
+[vc_row][vc_column width="2/3" css=".vc_custom_1497856365879{padding-right: 20px !important;padding-left: 20px !important;}"][vc_column_text]
+
+We intend to produce organic agri-food of high quality” with “We offer agri-food
+
+products of high quality
+
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text css=".vc_custom_1497856453890{margin-right: 30px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #829924 !important;}"]
+
+A customer is the most important visitor on our premises. He is not dependent on us. We are dependent on him. He is not an interruption of our work. He is the purpose of it. He is not an outsider of our business. He is part of it. We are not doing him a favour by serving him. He is doing us a favour by giving us the opportunity to do so 
+----Mahatma Gandhi
+
+[/vc_column_text][vc_empty_space height="20px"][vc_column_text]
+
+It is for our sincere commitment that we want to not just meet, but far exceed our customer´s expectations when it comes to quality.
+
+[/vc_column_text][vc_empty_space height="10px"][/vc_column][vc_column width="1/3"][vc_empty_space height="10px"][vc_single_image image="56" img_size="full" alignment="center" style="vc_box_outline" onclick="link_image"][/vc_column][/vc_row]

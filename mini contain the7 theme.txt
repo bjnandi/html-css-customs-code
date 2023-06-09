@@ -1,0 +1,53 @@
+.multipurpose_2 {
+	 color:#F9B40E !important;
+	 font-size:14px!important;
+}
+.customSelectInner{
+	 color:#F9B40E !important;
+	 font-size:14px!important;
+}
+
+
+
+.multipurpose_2:hover {
+	 color:#ffffff !important;
+}
+
+.mini-contacts:hover {
+    opacity: 1!important;
+}
+
+
+
+.mini-nav .mini-sub-nav {
+
+    background: #2D2D2D!important;
+
+}
+
+.mini-nav .mini-sub-nav>li:not(.wpml-ls-item)>a .menu-text{
+    color:#ffffff!important;
+
+}
+
+.mini-nav .mini-sub-nav>li:not(.wpml-ls-item)>a .menu-text:hover {
+    color:#F9B40E!important;
+   
+
+}
+ .customSelectInner:hover {
+	  color:#ffffff !important;
+    opacity: 1!important;
+   
+}
+.masthead .top-bar .menu-select:hover{
+	color:#ffffff !important;
+	opacity: 1!important;
+}
+
+
+
+
+.dt-mobile-header .mobile-mini-widgets-in-menu>* {
+    margin: 5px 20px 10px 0px!important;
+}

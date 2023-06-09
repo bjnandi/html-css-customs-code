@@ -1,0 +1,11 @@
+make php.ini file and put the code below
+memory_limit = 512m
+upload_max_filesize = 256M
+post_max_size = 256Msafe_mode = Off
+
+wp-config.php 
+
+define('WP_MEMORY_LIMIT', '128M');
+
+
+Memory limit code   :   define('WP_MEMORY_LIMIT', '128M');

@@ -1,0 +1,12 @@
+
+
+
+
+
+@media (max-width: 767px){
+  .row_reverse{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+}

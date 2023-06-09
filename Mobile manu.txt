@@ -1,0 +1,9 @@
+menu-icon .lines, .dt-mobile-menu-icon .lines:before, .dt-mobile-menu-icon .lines:after {
+    background-color: Red;
+
+
+
+
+
+.dt-mobile-menu-icon .lines, .dt-mobile-menu-icon .lines:before, .dt-mobile-menu-icon .lines:after {
+    background-color: #ffffff !important;}

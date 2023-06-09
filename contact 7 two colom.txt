@@ -1,0 +1,59 @@
+<div class="one-half">
+    First Name [text* First Name placeholder "Your First Name Here"]
+</div>
+
+<div class="one-half last">
+   Last Name [text* Last Name placeholder "Your Last Name Here"]
+</div>
+
+<div class="one-half">
+    E-mail [email* E-mail placeholder "Your e-mail Here"]
+</div>
+<div class="one-half last">
+     Company Name [text* Company Name placeholder "Your Company Name Here"]
+</div>
+
+<div class="one-half">
+      Phone Number [tel* Phone Number placeholder "Your Phone Number Here"]
+</div>
+<div class="one-half last">
+     Service Interested [select* ServiceInterested "Managed IT" "Back up and recovery" "Security" "EDI" "IT staffing"]
+</div>
+
+
+<div class="one-half">[submit "Send"]</div>
+
+
+
+
+
+
+
+
+
+<div id="responsive-form" class="clearfix">
+ <div class="vc_row ">
+  <div class="vc_col-sm-4">
+    [text* FastName placeholder "First Name"]
+  </div>
+  
+  <div class="vc_col-sm-4">
+    [text* LastName placeholder "Last Name"]
+  </div>
+   <div class="vc_col-sm-4">
+   [email* your-email placeholder "Your E-mail"]
+  </div>
+ </div>
+
+ <div class="vc_row ">
+  <div class="vc_col-sm-8">
+   [acceptance acceptance-694 default:on] I acknowledge by sending my name and e-mail, I’m accepting the terms of My VAT Direct’s Privacy Policy and Terms of Service.  
+ <a href="http://myvatdirect.com/privacy-and-cookies-policy/"><span style="color:#f4524d">Learn More</span></a> [/acceptance]
+  </div>
+  
+  <div class="vc_col-sm-4">
+  [submit class:Submit-btn "Submit"]
+  </div>
+ </div>
+
+</div>

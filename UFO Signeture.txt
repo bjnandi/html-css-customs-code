@@ -1,0 +1,18 @@
+in stylesheet.css
+#bottom-bar a:hover{text-decoration:none;color:#0077B5 !important}
+
+================================
+in bottom bar text area
+<p>Website by <a style="background-color: #000000;padding: 3px 11px;margin-left:10px" href="http://www.ufo-studio.com/" target="_blank"> UFO STUDIO</a><p>
+
+
+
+
+
+Copyright © 2018 Demo.com All Rights Reserved.
+
+
+html .formcraft-css .fc-form .form-element .form-element-html input[type=text]{
+	    padding: 6px 0.9em 0.65em!important;
+}
+

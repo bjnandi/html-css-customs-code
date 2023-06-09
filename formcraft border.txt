@@ -1,0 +1,10 @@
+::placeholder {
+  color: black!important;
+}
+html .formcraft-css .fc-form .form-element .form-element-html input[type=text]{
+border: 1px solid #D2D2D2!important;
+}
+
+ html .formcraft-css .fc-form .form-element .form-element-html textarea {
+border: 1px solid #D2D2D2!important;
+}

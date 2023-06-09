@@ -1,0 +1,31 @@
+
+<a href="#contact"><button class="btnr btnr1">Get A Quote</button></a>
+
+
+
+
+.btnr{
+    background-color: #01579B; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btnr1{
+    background-color: rgba(255, 255, 255, .0); 
+    color: #ffffff; 
+    border: 2px solid #00FF01;
+}
+
+.btnr1:hover {
+    background-color: #25394A;
+    color: #ffffff;
+}
